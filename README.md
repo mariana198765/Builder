@@ -39,7 +39,7 @@ Lighting installation, installation of household and plumbing fixtures, installa
 <p><font color=white size=+3><img src=p7.jpg WIDTH=200 align=right>Seventh stage
 Cleaning and turnkey delivery of the facility
 Preparing the facility for commissioning and subsequent accommodation of customers</font><hr> 
-<p><center color=white size=+3><img src=p11.jpg WIDTH=370><img src=p12.jpg WIDTH=370><img src=p10.jpg WIDTH=370>
+<p><center color=white size=+3><img src=p11.jpg WIDTH=300><img src=p12.jpg WIDTH=300><img src=p10.jpg WIDTH=300>
 <p><font color=yellow size=+9><img src=p13.jpg WIDTH=300 align=right>We do our best to make your home comfortable for every resident. Our contact details tel: +447774694143 email:jaroslav160787@gmail.com 
 <p><font color=yellow size=+9> We are waiting for your call or email:
 </body>
