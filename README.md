@@ -1,6 +1,6 @@
 
 </head>
-<body background= f4.jpg> 
+<body background=f4.jpg> 
 <h1 align=center><font color=yellow> IAROSLAV.                tel: +447774694143            email:jaroslav160787@gmail.com</font> </1>      
 <hr>
 <h1 align=center><font color=white >Let's build your dream together </font></h1>
